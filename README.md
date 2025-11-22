@@ -10,6 +10,7 @@ Ensure Python 3 is installed.
 Open a terminal in the project directory.
 
 Run the script with:
+https://github.com/nayan25bai11018-dev/expense-management-system.git
 
 Follow the command-line menu to use all features.
 
